@@ -4,7 +4,7 @@ Facilitators swap
 Symptoms
 --------
 
-You have a meeting coming up next week, and as your plan for it you notice:
+You have a meeting coming up next week, and as you plan for it you notice:
 
 - the meeting might run better if it was guided 
 - you'd like the whole team to participate
@@ -36,7 +36,7 @@ Facilitation is a great way to support a group process to be clearer and more ti
 Employing external facilitators : 
 - adds perspective + objectivity 
 - accelerates the learning and sharing of valuable skills
-- strengthens networks by providing an oppertunity for context and information exchange
+- strengthens networks by providing an opportunity for context and information exchange
 - explicitly demonstrates the value of facilitation
 
 So far, we've testing across Craftworks, Loomio, Enspiral Academy, Rabid, and Action Station. Facilitators involved so far include (Mix, Rich, Silvia, Breccan, Marrianne)
@@ -53,4 +53,32 @@ Processes that facilitators could help run:
 - workshop
   - an upskilling session on a particular topic (e.g. agile methodology, design thinking, ...)
   - a session where the team works to process or develop solutions to a particular problem
+
+
+-----------------------------
+  
+Derek's comments
+----------------
+
+Wow, first thing I notice is what a joy your writing style is to read. Really to the point and focused, well categorized and formatted. Great content UX. Very much a treat.
+
+I noticed you have a couple different "what, why hows" mixed together in here. i wonder if it might be nice to make that thought pattern a bit more explicit.
+
+I think "types of workshops" could be it's own article in full- doens't give me much in this context. Maybe shorten and reference to another piece. In fact I wonder if there might be 2 or 3 small articles nested in here.
+
+I reckon the language of this could use some simple tweaking to take it to another level. 
+
+
+Things I would tweak:
+- "Symptoms" is a weird way to frame a value proposition. I think the content in that section is also the weakest in the article. Could possibly be replaced or synthesized with "hypothesis"
+
+- Hypothesis is confusing language, could as easily be "why having external fascilitators is awesome" or some such thing
+
+Would love to see a bit more in the "were experimenting in X" section, just with a quickie personal perspective on how it's been valuable.
+
+I would love to see this be a bit less enspiral-centric, but I like the practicality that brings.
+
+Q: what if I don't know any fascilitators?
+
+Also, the recipie bit doesn't give me any directions on how to get / distribute funds. I reckon make a hard choice about enspiral intenal focus of this article (or not) and go into as much detail as needed.
 

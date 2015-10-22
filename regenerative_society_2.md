@@ -57,22 +57,22 @@ I think their are some commonalities. They all have:
        __<< this may just be another type of stability? >>_
 
 examples : 
-- humans genome 
+- **humans genome**
   - A: genes within DNA. stability is ensure by accurate copying of DNA, redundancy through double up of chromosomes needed, self-repair code
   - B: sex (random recombination of parent DNA), low rate of point mutation
   - C: world interacting with body the DNA builds leading to natural selection of some versions of genome over generations (somewhat simplified)
 
-- Democracy
+- **Democrac**
   - A: Law + enforcement, serving citizen patterns by offering protection & infrastructure, promise of participation in pattern modification, international agreements
   - B: government, elections, lobbying
   - C: corporations, other nations, citizens, democratic theory
 
-- Communism
+- **Communis**
   - A: Militarily enforced compliance to rules, promise of equality, promise of serving citizens 
   - B: government ... (I don't know how communist states evolve)
   - C: other nations, party memebers, citizens 
 
-- Google
+- **Google**
   - A: Legal structure (relationship with a nation), monopoly on niche money-making position (internet advertising), building a free to use platform that embeds feeding niche, making it hard for competion, and hard for users to leave.
   - B: 20% time, aquiring companies with new tech, expanding into new markets (android), ..  
   - C: apple, facebook, users, other companies

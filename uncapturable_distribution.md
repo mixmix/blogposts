@@ -75,10 +75,13 @@ The [Secure Scuttlebutt](https://github.com/ssbc) project attempts to address th
 The latter two are addressed by establishing a network of trust around each user - opting into following relationships demonstrates 'trust' (or at least value of content another user is producing). Content is then distributed by 'gossiping' with trusted peers. This mitigates distribution of unwanted content.
 Similarly moderation is achieved in a distributed way by sharing information about flagging inappropriate through the trust-network.
 
-Check out an email / twitter replacement that impliments all of this using the Secure Scuttlebutt core, it's called [Patchwork](https://github.com/ssbc/patchwork).
+Check out an email / twitter replacement that impliments all of this using the Secure Scuttlebutt core, it's called [**Patchwork**](https://github.com/ssbc/patchwork).
 
-The following is some more detailed info from the Secure Scuttlebutt Docs page:
+![](https://github.com/ssbc/patchwork/blob/master/screenshot.png)
 
-+[Secure Scuttlebutt Docs](https://github.com/ssbc/docs/blob/master/README.md)
+Check out more detailed info about the foundation on the [Secure Scuttlebutt Docs](https://github.com/ssbc/docs/) page.
+
+![](https://avatars2.githubusercontent.com/u/10190339?v=3&s=200)
+
 
 

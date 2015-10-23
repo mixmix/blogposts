@@ -1,4 +1,4 @@
-![](./images/galaxy.png)
+![](images/galaxy.png)
 
 On the road to the Galactic Council
 ===================================
@@ -24,7 +24,7 @@ Workshop 2 : Why build a decentralised database?
 
 Here's what the top of our theory of change diagram looked like :
 
-![](./images/TOS_2.jpg)
+![](images/TOS_2.jpg)
 
 If we start with our highest value and back-cast through our dominant arc of dependencies, it reads :
 

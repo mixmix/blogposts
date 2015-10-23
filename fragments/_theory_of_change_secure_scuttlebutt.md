@@ -1,4 +1,4 @@
-This is a workshop I ran with the Secure Scuttlebutt team who all happened to be in San Fransisco (more on that later). Here's what the top of our theory of change diagram looked like :
+This is a workshop I ran with the Secure Scuttlebutt team who all happened to be in San Fransisco recently. Here's what the top of our theory of change diagram looked like :
 
 ![](../images/TOS_2.jpg)
 

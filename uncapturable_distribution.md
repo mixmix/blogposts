@@ -79,6 +79,6 @@ Check out an email / twitter replacement that impliments all of this using the S
 
 The following is some more detailed info from the Secure Scuttlebutt Docs page:
 
-+[Secure Scuttlebutt Docs](https://github.com/ssbc/docs)
++[Secure Scuttlebutt Docs](https://github.com/ssbc/docs/blob/master/README.md)
 
 

@@ -1,7 +1,4 @@
-![](images/galaxy.png)
-
-On the road to the Galactic Council
-===================================
+![On the road to The Galactic Civilisation](images/galaxy.jpg)
 
 I've hosted two workshops this year where the highest named goal was humanity joining the Galactic Council. 
 

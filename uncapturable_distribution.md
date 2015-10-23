@@ -1,3 +1,5 @@
+![](./images/galaxy.png)
+
 On the road to the Galactic Council
 ===================================
 

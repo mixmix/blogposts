@@ -8,13 +8,8 @@ The workshops were about developing a Theory of Change for each group.
 
 +[What is theory of change](./fragments/_theory_of_change.md)
 
-In each workshop, 2 hours of conversation made barely a dent in completing a fully detailed map, but we'd revealed a lot of territory.
-
-Workshop 1 : Is our work climate change work? 
----------------------------------------------
-
-[Story for another time]
-
+In each of the workshops, 2 hours of conversation made barely a dent in completing a fully detailed map, but we'd revealed a lot of territory.
+Both workshops explored similar viens, but here I'll explore the second, because it's fresher in memory and highly relevant to my current work.
 
 Workshop 2 : Why build a decentralised database?
 ------------------------------------------------

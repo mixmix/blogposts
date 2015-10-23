@@ -27,12 +27,12 @@ Here's a breakdown of a couple of interesting cases in the context of informatio
 This has generated a niche for organisations to offer value (spam filtering), and capture users. 
 For example Gmail is popular because it does fairly reliable spam filtering. This makes email less open, because small private servers have a harder time generating a good 'not-spam' reputation.
 
-> **Distribution systems must have a solution to noise.**
+> Distribution systems must have a solution to noise.
 
 **[Facebook]** : built on an open protocol - http - but has centralised closed databases, and a closed (proprietary) interface.
 Facebook's primary motivation is profit, which inclines it to leverage it's closed-ness (right of refusal of access) to extract value from it's user-base. 
 
-> **All parts of a distribution system need to be uncapturable - open protocols are not sufficient**
+> All parts of a distribution system need to be uncapturable - open protocols are not sufficient
 
 _[facebook ToS](https://www.facebook.com/terms.php)_
 
@@ -41,7 +41,7 @@ The current winning solution to this problem is an algorithm which determes site
 Again, this is a niche which has been captured by a primarily profit motivated organisation. 
 This capture looks something like a monopoly through dependence, and is [defended by a suite of related free and powerful tools](http://techcrunch.com/2011/03/25/search-googles-castle-moat/).
 
-> **Distribution systems need to address capturable searchability**  
+> Distribution systems need to address capturable searchability
 
 
 ### Things you should consider 

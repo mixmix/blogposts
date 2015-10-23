@@ -66,4 +66,3 @@ There's still the problem of how it is you've found your way to this blog.
 99.9% liklihood is that in 2015 it was via facebook, or twitter (it probably wasn't via google because the way I built this accidently makes it harder to index).
 
 +[About Scuttlebutt](./fragments/_about_scuttlebutt.md)
-

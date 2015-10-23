@@ -19,5 +19,5 @@ Workshop 1 : Is our work climate change work?
 Workshop 2 : Why build a decentralised database?
 ------------------------------------------------
 
-![Theory of change: Secure Scuttlebutt](./fragments/_theory_of_change_secure_scuttlebutt.md)
++[Theory of change: Secure Scuttlebutt](./fragments/_theory_of_change_secure_scuttlebutt.md)
 

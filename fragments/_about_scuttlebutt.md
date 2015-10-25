@@ -1,8 +1,10 @@
 The solution I'm currently investing in is [**Secure Scuttlebutt** ](https://github.com/ssbc/docs). 
 It's an open and secure decentralised database where distribution flows along trust lines, as determined by following (positive value) and flagging (negative value).
+
 ![Hermes the hermit-crab](https://avatars2.githubusercontent.com/u/10190339?v=3&s=200)
 
 Anyone is free to build an app to interface (read/ write) with this database. The first app is a proof of concept messaging app called [**Patchwork**](https://github.com/ssbc/patchwork). 
+
 ![Patchwork interface](https://github.com/ssbc/patchwork/raw/master/screenshot.png)
 
 The Scuttlebutt team is planning to open beta Patchwork in November 2015.

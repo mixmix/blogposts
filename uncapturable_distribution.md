@@ -12,7 +12,7 @@ In each of the workshops, 2 hours of conversation made barely a dent in completi
 Both workshops explored similar viens, but here I'll explore the second, because it's fresher in memory and highly relevant to my current work.
 
 Workshop 2 : Why build a decentralised database?
-------------------------------------------------
+================================================
 
 +[Theory of change: Secure Scuttlebutt](./fragments/_theory_of_change_secure_scuttlebutt.md)
 

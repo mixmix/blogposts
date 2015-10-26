@@ -1,6 +1,6 @@
 # Regenerative Society 
 
-![](images/regenerative_pattern.png)
+![](./images/regenerative_society.png)
 
 ### Arguement overview
 
@@ -15,8 +15,8 @@
     - evolving
     - selection pressures
 
-- cautionary nore on anti-patterns
-  - kill switches
+- cautionary note on anti-patterns
+  - install kill switches?
 
 ----
 

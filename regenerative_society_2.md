@@ -31,10 +31,10 @@ In short, while we have discrete labels and titles for objects, entities, or ins
 
 ### Examples (needs work)
 
-  - atoms - we can think of them like little balls which bounce around. A more accurate description is a fuzzy probability distribution. Describing atoms like this lets us understand why some atoms can overlap, and why it's photosynthesis is possible 
-  - human diet - some people's digestion doesn't work well. If you think this problem more as a system of patterns where the dancers are things like: my DNA which has built my intestine, the garden of microbes which are playing roles, the food and water systems I engage with (which is influenced by state policy and corporate advertising), my current body state (effected by my last meal, my relationship with colleagues and partner(s)) ... etc.
+  - **atoms** - we can think of them like little balls which bounce around. A more accurate description is a fuzzy probability distribution. Describing atoms like this lets us understand why some atoms can overlap, and why it's photosynthesis is possible 
+  - **human diet** - some people's digestion doesn't work well. If you think this problem more as a system of patterns where the dancers are things like: my DNA which has built my intestine, the garden of microbes which are playing roles, the food and water systems I engage with (which is influenced by state policy and corporate advertising), my current body state (effected by my last meal, my relationship with colleagues and partner(s)) ... etc.
 
-  - worker happiness : in our company do i get to be involved in decision that effect me? , who are the stakeholders, what's in the constitution, can we change the constitution, how do we employ people, how does power manifest, which country are we in, does our company designation make it easy / hard for other institutions to interact / invest in us? 
+  - **worker happiness** : in our company do i get to be involved in decision that effect me? , who are the stakeholders, what's in the constitution, can we change the constitution, how do we employ people, how does power manifest, which country are we in, does our company designation make it easy / hard for other institutions to interact / invest in us? 
 
 It might seem like adding a lot of complexity unnecessarily, but if you've ever tried tackling a difficult problem you've probably felt the pain of too much discrete labeling.
 So if the world is made up of systems of patterns how do you change existing systems/ patterns or build new ones?

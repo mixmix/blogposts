@@ -1,12 +1,13 @@
 # Regenerative Society 
 
-### Overview
+![](images/regenerative_pattern.png)
+
+### Arguement overview
 
 - change the world
-- the world is patterns
-- how do you change patterns? 
-- you build persistance
-- How do you build patterns? 
+- the world is persisting patterns
+- how do you change such patterns? 
+- can you build patterns? 
   - complicated vs. complex
   - you can only grow complex patterns
   - mvp patterns
@@ -19,10 +20,14 @@
 
 ----
 
-My friends and I are interested in living in a different world. Some of us want us to not suffer and die in climate change, some see post-nationalism organisation. I would like us to join the galactic council. There are many common threads to our different visions and the paths we think we need to take to get there, thing like more equality, reformation of economies, alternative modes of organising with large groups.
+My friends and I are interested in living in a different world. Some of us want to not suffer and die in climate change, some to see stateless democracy succeed the nation state.
+I would like us to [join the galactic council](http://hyper.mixmix.io/?mixmix/blogposts/blob/master/uncapturable_distribution.md).
+There are many common threads to our different visions and the paths we think we need to take to get there, things like more equality, reformation of economies, alternative modes of organising with large groups.
 
 Something all these have in common is bringing about change in what already exists. Knowing how to effect change well is a VERY HARD problem - it's involves balancing things like a need for scale with preservation of values, or balancing inclusivity with alacrity.
-When you're changing an economy, or how your company makes decisions, or societal behaviour, it's a multi-facetted problem. I think the most useful way to think about it is with a **systems theory** perspective. In short, while we have discrete labels and titles for objects, entities, or institutions, these are just constructions of convenience and and what you're actually looking at is a system of interweaving patterns with fuzzy boundaries. (I've added the concept of a **pattern** so that we can still practically name commonly occuring 'chunks' of systems while acknowledging the ambiguity of their boundary)
+When you're changing an economy, or how your company makes decisions, or societal behaviour, it's a multi-facetted problem. I think the most useful way to think about it is with a [**systems theory**](https://en.wikipedia.org/wiki/Systems_theory) perspective.
+In short, while we have discrete labels and titles for objects, entities, or institutions, these are just constructions of convenience and what you're actually looking at is a system of interweaving patterns with fuzzy boundaries. 
+(Note I've extended systems theory by adding the concept of a **pattern** - a small eddie within a system - so that we can still practically name commonly occuring 'chunks' of systems while acknowledging the ambiguity of their boundary)
 
 ### Examples (needs work)
 

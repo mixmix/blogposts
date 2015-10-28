@@ -1,71 +1,134 @@
-Immortal patterns; or "How to join the galactic council" 
-========================================================
+# Regenerative Society 
 
-We have the pleasure of living in a world full of a delightful array of organisms. These represent the progress so far - millions of years of matter learning how to arrange itself increasingly effective self-replicating patterns. Even more delightful is the fractal growth of these patterns - a progression from DNA molecules, through cells with organelles, through organisms with many cells arranged as organs, through communities of organisms in ecosystems. As humans, we're in the delighful position of being a part of a pattern that has the ability to observe patterns around us and manipulate them. While some .. (protocols hacking) 
+![](./images/regenerative_society.png)
 
-Can looking at this lineage of pattern inform how we should look to organise and communicate?
+## Arguement overview
 
-Perhaps we can inquire as to what made these patterns successful. Well at the very least these patterns have persisted. 
-To persist they have : 
-    - self replicated
-    - evolved
-    - stabilised / persisted equilibrium state of surrounding broader patterns (have stable interactions with surrounding patterns) , establish equilibrium with connected patterns.
-    
-Equlibrium state : Equilibrium state represents a long term stability of a pattern. This is important particularly for more complex patterns (such as ourselves) which have operating ranges outside of which they cannot persist. It's worth noting that stable does not necessarily mean good - for example humans being extinct is a stable possibility, even if it is a sad loss of complexity.
+- change the world
+- the world is persisting patterns
+- building patterns
+  - complicated vs. complex
+  - you can only grow complex patterns
+  - mvp patterns
+    - stable
+    - evolving
+    - selection pressures
 
-Evolving state : Given all the systems we're engaging with are evolving, any system we build must also evolve. The alternative is ultimately being outcompeted by an evolving system.  
-
-examples: biological cells
-- binary fission
-- mutation, sex
-- don't kill mutualistic relationships, don't
-
-Organisation as pattern
------------------------
-
-A successful community/ business pattern is one that persists. To persist it has to self-replicate, evolve, and have stable interactions with connecting patterns. 
-
-Current organisational patterns are in stable interaction with their connecting patterns. We see this in patterns both above and below the level of the organisation-level.
-Below - inequality is progressively crushing the poor. This plays out as inceasingly unstable countries. Historically this instabilty leads to dramatic change of organisational level pattern through revolt or revolution
-Above - planet-wide environment is shifting towards a range that may preclude our particular pattern.
-
-If we persist the our current organisational patterns, ... well, we can't
-
-So our ideal organisation need to : 
-    - self replicate
-    - evolve
-    - interact stablly with patterns (below, above, around) 
-
-
-Building the ideal organisation
--------------------------------
-
-To persist in the long term it has to be, adaptive, self-repairing, and to reach an equilibrium state in it's interactions with other systems. 
-
- find an equilibrium with its environment which does not forebear its persistence .  
-
- 
- The more recent part of this evolution is 
-
-
-  organisations of atoms 
-
-Build an organisation that builds itself.
-
-
-What are the pre-requisites? There are likely several solutions to this problem, just as there are many solutions to how organisms are put together. 
-
-Organisations thrive when they are regenerative. This is the hypothesis we're working on.
-Build an engine that sustains and grows individuals and relationships between individuals, and you can't help but bring about positive change.
-
-How have we succeeded ? 
-
-We value working on positive change in the work more than we value money. 
-
-Find a shared value that's  
+- cautionary note on anti-patterns
+  - install kill switches?
 
 ----
-NOTES 
-- each system has a distinctive identity that is constantly reproduced in its communication and depends on what is considered meaningful and what is not
-- identity is the persistance of pattern
 
+My friends and I are interested in living in a different world. Some of us want to not suffer and die in climate change, some to see stateless democracy succeed the nation state.
+I would like us to [join the galactic council](http://hyper.mixmix.io/?mixmix/blogposts/blob/master/uncapturable_distribution.md).
+There are many common threads to our different visions and the paths we think we need to take to get there - things like more equality, reformation of economies, alternative modes of organising with large groups.
+
+Something all these have in common is bringing about change in what already exists. Knowing how to effect change well is a VERY HARD problem - it's involves balancing things like a need for scale with preservation of values, or balancing inclusivity with alacrity.
+When you're changing an economy, or how your company makes decisions, or societal behaviour, it's complicated because of the number of variables and their inter-relatedness. I think a useful way to think about it is with a [**systems theory**](https://en.wikipedia.org/wiki/Systems_theory) perspective.
+In short, while we have discrete labels and titles for objects, entities, or institutions, these are just constructions of convenience and what you're actually looking at is a very large system of interweaving patterns with fuzzy boundaries.
+Taken to it's extreme, this might imply there is no 'me', rather just a very complex unity. This is pretty and kind of grounding, but not a very actionable model.
+I'd like to resolve this by extending systems theory back a little toward discreteness by adding the concept of a **pattern**.
+Let's say a pattern is a commonly occuring or stable 'area' of systems.
+
+### Examples of pattern
+PURPOSE OF THIS SECTION : show the fuzziness/ gradation of boundaries of typical objects/ concepts. Introduce the idea of pattern interaction patterns?
+
+  - **human** - a 'human' is (locally) a commonly occuring pattern. Look at the person nearest you and squint your eyes, that's more like a human. 
+You're seeing persistant weaving of atoms. With a systems lens, it's hard to see where the boundary of a human is, as the human's pattern is afforded by a symphony of smaller and larger patterns.
+From more easier to conceive patterns like 'human-tpye' DNA, 'bacterial-type' DNA, and physiological state, to more intangible patterns like hunger, insurance, friendship, economy, and nation.
+Considering how taking any of these away might destroy or fundamentally deform this human pattern, you can start to appreciate the fuziness of the boundary of a human.
+
+  - **friendship** - a pattern of interaction between two human-type patterns.
+
+  - **book** - a pattern of characters found on paper or digitally. Created, arranged, prioritised, and persisted by human-type patterns. Changes individual humans, and human interaction patterns.
+
+  - **el nino** - a recurring weather pattern. It's very large, hard to predict, influences a lot of human-related patterns.
+
+  - **Venture Capital** - a pattern of large-scale money movement. Stabilised by a dominant credit pattern, contract-type patterns, and inequality-type patterns (?).
+
+  - **physical abuse** - an pattern of interaction between human patterns.
+Changes human patterns, and increases likihood of those patterns involved to create future abuse patterns (or anti-patterns).
+Stabilized by inequality patterns.
+
+---
+
+  <!--- **electrons** - we can think of them like little balls which bounce around.-->
+<!--A more useful description a probability distribution with a range of wave and particle-like properties.-->
+<!--This broadening of conception helps us understand more complex chemistry (see photosynthesis), explain how electrons can jump through things, and build powerful microscopes.-->
+
+  <!--- **human intestine** - if you look inside most people, you'll find they have similar gastro-intestinal anatomy. It's a predictable enough form that we name it.-->
+<!--Interestingly, when it comes to treating patients, this naming seems to bring with it a mypoia in western medicine. -->
+<!--If you think of the intestine as a pattern which is part of a system with fuzzy boundaries, diagnosis start to look quite different. -->
+<!--This patterns borders not just on other organs, it is interfacing with patterns like foundational DNA, the families of microbes that cohabitate the space, the balance of nutrients ingested, the state policies and advertising which have influenced the food ingested, the stress ofmy ineraction with other humans.-->
+
+  <!--- **worker happiness** : in our company do i get to be involved in decision that effect me? , who are the stakeholders, what's in the constitution, can we change the constitution, how do we employ people, how does power manifest, which country are we in, does our company designation make it easy / hard for other institutions to interact / invest in us? -->
+
+---
+
+It's tempting to make a destinction between classes of pattern, for example object-type pattern versus interaction-type pattern.
+I'd like to defer making a decision about whether that serves as a lens (I uspect this is how we already think of the world and might be narrowing our thinking).
+
+---
+
+It might seem like adding a lot of complexity unnecessarily, but if you've ever tried tackling a difficult problem you've probably felt the pain of too much discrete labeling.
+So if the world is made up of systems of patterns how do you change existing systems/ patterns or build new ones?
+
+What is the nature of systems and patterns? 
+
+Systems are complex (as distinct from complicated). Humans like building things up out of lots og predictable components - a car or a computer and complicated, because the individual parts are simple, and behaviour is easy to predict. Hard problems are typically dynamic systems - the global climate, my digestion, the economy are complex because they involve parts which interact in ways that are highly interdependant and hard to predict.
+
+Most of the places we want to bring about change involve changing a system that is complex. This is important to understand because the way you approach a problems depends a lot on whether it's complicated or complex. I can fix software by understanding the limited number of ways the parts of the code can interact, then running some simple checks at the places it must be failing. I can design aa building out of concrete and steel by modelling physical forces and then employing a construction firm to execute the design.
+__<< Complicated things are more likely to be static patterns >>__
+
+In contrast, the way someone uses the software I have made is very hard to predict - what assumptions and previous experience is this person bringing, what's their culture, how were they introduced, and what are they trying to do? For this reason it's best practice to build software iteratively, by building, then testing with real users, then building again etc. It's a complex problem, so it's hard to predict, so we take a more adaptive approach.
+__<< the line between complicated and complex is also blurry >>__
+
+
+I'd like to suggest the best way to interact with complex systems in general is to grow patterns.
+What's a pattern : it's a part of a system that persists.
+Examples of patterns are the human genome, and related (but arguably somewhat at a distance) human culture, democracy (an instance of a large scale human governance pattern), Google (an instance of a class of pattern we call companies)
+
+How did these patterns come into being and grow? 
+I think their are some commonalities. They all have:
+ - A) elements of stability
+ - B) a mechanism to evolve/ change what is stable
+ - C) sources that define fitness/ success (or provide selection pressure)
+       __<< this may just be another type of stability? >>_
+
+examples : 
+- **humans genome**
+  - A: genes within DNA. stability is ensure by accurate copying of DNA, redundancy through double up of chromosomes needed, self-repair code
+  - B: sex (random recombination of parent DNA), low rate of point mutation
+  - C: world interacting with body the DNA builds leading to natural selection of some versions of genome over generations (somewhat simplified)
+
+- **Democrac**
+  - A: Law + enforcement, serving citizen patterns by offering protection & infrastructure, promise of participation in pattern modification, international agreements
+  - B: government, elections, lobbying
+  - C: corporations, other nations, citizens, democratic theory
+
+- **Communis**
+  - A: Militarily enforced compliance to rules, promise of equality, promise of serving citizens 
+  - B: government ... (I don't know how communist states evolve)
+  - C: other nations, party memebers, citizens 
+
+- **Google**
+  - A: Legal structure (relationship with a nation), monopoly on niche money-making position (internet advertising), building a free to use platform that embeds feeding niche, making it hard for competion, and hard for users to leave.
+  - B: 20% time, aquiring companies with new tech, expanding into new markets (android), ..  
+  - C: apple, facebook, users, other companies
+
+These are fairly shallow analyses, but hopefully they reveal some of the sorts of dependancy that patterns have. In particular it's interesting to consider the patterns a pattern is build from (for example companies and citizens with a democratic nation) and the patterns that a pattern interacts with (for example a country interacting with out countries, the environment, and trans-national organisations). \
+
+I suspect these are worth considering because how patterns interact withing a system over the long term can help us predict how likely a pattern is to persist. 
+
+The USSR as a communist state has not persisted because they didn't establish within their pattern the right balance of stability within their system and between their system and others.
+French revolution - not enough stability with citizens
+
+When the pattern involves humans : 
+
+
+
+examples to explore : 
+  - death by a thousand decentralised paper-cuts
+  - bus-proof organisation
+  - open-source
+  - venture capital

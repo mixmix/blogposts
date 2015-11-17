@@ -6,6 +6,7 @@ It's an open and secure decentralised database where distribution flows along tr
 Anyone is free to build an app to interface (read/ write) with this database. The first app is a proof of concept messaging app called [**Patchwork**](https://github.com/ssbc/patchwork). 
 
 ![Patchwork interface](https://github.com/ssbc/patchwork/raw/master/screenshot.png)
+Check out a brief introduction [here](https://www.youtube.com/watch?v=vmQUfZMCVJ0)
 
 The Scuttlebutt team is planning to open beta Patchwork in November 2015.
 

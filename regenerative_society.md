@@ -24,29 +24,31 @@ I would like us to [join the galactic council](http://hyper.mixmix.io/?mixmix/bl
 There are many common threads to our different visions and the paths we think we need to take to get there - things like more equality, reformation of economies, alternative modes of organising with large groups.
 
 Something all these have in common is bringing about change in what already exists. Knowing how to effect change well is a VERY HARD problem - it's involves balancing things like a need for scale with preservation of values, or balancing inclusivity with alacrity.
-When you're changing an economy, or how your company makes decisions, or societal behaviour, it's complex because of the number of variables and their inter-relatedness. I think a useful way to think about it is with a [**systems theory**](https://en.wikipedia.org/wiki/Systems_theory) perspective.
+When you're changing an economy, or how your company makes decisions, or societal behaviour, it's complex because of the number of variables and their inter-relatedness.
+
+I think a useful way to think about it is with a [**systems theory**](https://en.wikipedia.org/wiki/Systems_theory) perspective.
 In short, while we have discrete labels and titles for objects, entities, or institutions, these are just constructions of convenience and what you're actually looking at is a very large system of interweaving patterns with fuzzy boundaries.
 Taken to it's extreme, this might imply there is no 'me', rather just a very complex unity. This is pretty and kind of grounding, but not a very actionable model.
 I'd like to resolve this by extending systems theory back a little toward discreteness by adding the concept of a **pattern**.
 Let's say a pattern is a commonly occuring or stable 'area' of system.
 
 **Examples of pattern**
-PURPOSE OF THIS SECTION : show the fuzziness/ gradation of boundaries of typical objects/ concepts. Introduce the idea of pattern interaction patterns?
 
-  - **human** - a 'human' is (locally) a commonly occuring pattern. Look at the person nearest you and squint your eyes, that's more like a human.
+- **human** - a 'human' is (locally) a commonly occuring pattern. Look at the person nearest you and squint your eyes, that's more like a human.
 You're seeing a persistant weaving of atoms and behaviour. With a systems lens, it's hard to see where the boundary of a human is, as the human's pattern is afforded by a symphony of smaller and larger patterns.
 From more easier to conceive patterns like 'human-tpye' DNA, 'bacterial-type' DNA, and physiological state, to more intangible patterns like hunger, insurance, friendship, economy, and nation.
 Considering how taking any of these away might destroy or fundamentally deform this human pattern, you can start to appreciate the fuziness of the boundary of a human.
 
-  - **friendship** - a pattern of interaction between two human-type patterns.
+- **friendship** - a pattern of interaction between two human-type patterns.
 
-  - **book** - a pattern of characters found on paper or digitally. Created, arranged, prioritised, and persisted by human-type patterns. Changes individual humans, and human interaction patterns.
+- **book** - a pattern of characters found on paper or digitally. Created, arranged, prioritised, and persisted by human-type patterns. Changes individual humans, and human interaction patterns.
 
-  - **el nino** - a recurring weather pattern. It's very large, hard to predict, influences a lot of human-related patterns.
+- **el nino** - a recurring weather pattern. It's very large, hard to predict, influences a lot of human-related patterns.
 
-  - **Venture Capital** - a pattern of large-scale money movement. Stabilised by a dominant credit pattern, contract-type patterns, and inequality-type patterns (?).
+- **Venture Capital** - a pattern of large-scale money movement. Stabilised by a dominant credit pattern, contract-type patterns, and inequality-type patterns (?).
 
-  - **physical abuse** - a pattern of interaction between human patterns.
+- **physical abuse** - a pattern of interaction between human patterns.
+
 Changes human patterns, and increases likihood of those patterns involved to create future abuse patterns (or anti-patterns).
 Stabilized by inequality patterns.
 
@@ -138,14 +140,14 @@ When the pattern involves humans :
 
 ## Complex patterns
 
-Patterns in the wild tend to be **complex**.
+Patterns in the wild tend to be *complex*.
 
-Humanity prefers (and has excelled at) dealing with **complicated** patterns.
-We've mastered building **complicated** things (like computers, cars). These are patterns that tend to be made up of super-stable patterns ('parts', 'components', with a limited amount of interdependence, making them easier to design and debug.
+Humanity prefers (and has excelled at) dealing with *complicated* patterns.
+We've mastered building *complicated* things (like computers, cars). These are patterns that tend to be made up of super-stable patterns ('parts', 'components', with a limited amount of interdependence, making them easier to design and debug.
 
-> Complicated patterns have more stable parts, and lend themselves to mapping.
+> **Complicated patterns have more stable parts, and lend themselves to mapping.**
 
-**Complex** patterns are made up of patterns that are more likely to change or adapt, and are highly interdependent, making them very hard to predict and design.
+*Complex* patterns are made up of patterns that are more likely to change or adapt, and are highly interdependent, making them very hard to predict and design.
 
 Swapping a computer fan is very different than swapping a human heart.
 Writing an app is very different than predicting whether it will be a success in the app-store.
@@ -159,9 +161,8 @@ Close to my experience are :
   - [Theory U](https://www.presencing.com/theoryu)
   - [Social Labs](http://www.social-labs.com/)
 
-> Complex patterns are dynamic, and require dynamic way-finding (maps)
+> **Complex patterns are dynamic, and require dynamic way-finding (maps)**
 
-<!--Rolling out a large static plan for a interacting with a complex system is usually a plan for failure.-->
 These patterns of interaction all have the following in common:
   - forget your assumptions you think are 'true' about the complex system
   - go to the information-rich areas of the pattern

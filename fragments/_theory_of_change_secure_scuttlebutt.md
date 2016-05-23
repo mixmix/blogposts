@@ -61,7 +61,7 @@ What is your interaction with distribution systems, are you investing in systems
 - Who holds power over the definition of value of what you're interacting with?
 - Where do you publish your content?
 
-I think it's overly idealistic to transition immediately to decentralised uncapturable solutions, but there are small choices that we can and should start making if we want to live in a thriving socirty.
+I think it's overly idealistic to transition immediately to decentralised uncapturable solutions, but there are small choices that we can and should start making if we want to live in a thriving society.
 
 Possible solutions
 ------------------

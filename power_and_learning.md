@@ -28,6 +28,9 @@ This wasn't an act of rebelion, more an extension of my stubornness and pickines
 
 What was so attractive about Unlimited was the atmosphere (or people dynamics).
 
+![Students at Unlimited](images/upt_learning.jpg "Students learning at Unlimited")
+
+
 Unlimited is a state funded public secondary school that exists because of a loophole in the law, which allowed the bending of a rule meant for the integration of church schools into a rule which allowed the school to write its own assessment rules.
 Its "special character" is "a fundamental tenet that the child is central in directing his or her own learning so that the enthusiasm and love of learning is retained."
 My kind of place.
@@ -50,6 +53,8 @@ It makes me thoroughly sad - and angry - thinking about how much average state e
 I loved Unlimited, and learnt an enourmous amount there, but I left to stretch skills outside of teaching.
 There was also a massive earthquake that destroyed the city.
 I moved to attend art school, where I got into programming the laser cutter (which I was shocked to find almost no one else was using). 
+
+![Death Ray in construction](images/laser_death_ray_2.jpg "Death Ray (solar collector) in construction")
 
 I was the worst adult student - I know what good education looks like, and I like giving feedback.
 The context and tools were great but the educators (ourside of the pure theorists) were weak.

@@ -132,4 +132,8 @@ This is how I see power dynamics hampering our learning.
 I'm investing in education systems which set aside positional authority, and foster environments in which it's safe for everyone to be vulnerable.
 For older systems, I'm building an evolving book format, designed to open education resources and support teachers to transition from authorities to guides and catalysts of learning.
 
-My colleagues and I would love to hear from anyone also playing the long game of reshaping education.
+I'm excited to be working in a community which is supporting me to develop a different sort of learning pattern for myself.
+Maybe if we're lucky (and persistent), we can shift learning patterns more broadly.
+
+I would love to hear from anyone else playing the long game of reshaping education.
+

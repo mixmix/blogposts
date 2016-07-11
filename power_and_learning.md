@@ -46,7 +46,7 @@ People were kind (not to be confused with nice), and they learnt a lot.
 Instead of negotiating bullying and claustrophobia, students spent their time doing things like attending university level classes, running New Zealand's only openDNS server from a bedroom, and working together to support a friend with depression.
 Some of the experiences moved me so deeply I still cry when I recall them.
 
-It makes me thoroughly sad - and angry - thinking about how much average state education is missing the mark.
+Most state education is missing the mark by a wide margin. It makes me thoroughly sad - and angry.
 
 ---
 

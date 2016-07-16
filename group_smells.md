@@ -97,3 +97,9 @@ Patterns to consider :
 - call 'rabit hole' when you smell one
 
 
+---
+
+These are just a start.
+Lets spot patterns together and name them.
+I'd love to hear of any common anti-patterns you've already named in your group work, please post them up.
+

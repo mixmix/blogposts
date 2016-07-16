@@ -2,6 +2,9 @@
 
 As a programmer, part of my daily rhythm includes talking about _'code smells'_.
 Like a musky over-ripeness somewhere in your fridge, or unwanted acridity of burning plastic coming from your computer, they're a hint that nearby, something is amiss, and it's about to get worse.
+
+![](images/anti_pattern_plugs.jpg)
+
 In code it's usually that you've used a pattern that seems good when you write it, but as you add things around it, things get volatile - maybe like running too many appliances off a multi-board.
 
 Patterns that are known to cause future instability we call _anti-patterns_.

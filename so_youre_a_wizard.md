@@ -9,16 +9,16 @@ You're now an Adept, and are setting out on an exciting journey to further your 
 This primer is designed to help you aclimitise to life outside [the Academy](www.devacademy.co.nz).
 
 ```
-Part 1 ................ Perceptions of Magic in Oldworld 
-Part 2 ................ Mapping the schools of Magic to Business-speak
-Part 3 ................ Effecting change (without getting martyred)
-Part 4 ................ Keeping in touch
+Part I ................... Perceptions of Magic in Oldworld 
+Part II .................. Mapping the schools of Magic to Business-speak
+Part III ................. Effecting change (without getting martyred)
+Part IV .................. Keeping in touch
 ```
 
 ---
 
 
-Perceptions of Magic in Oldworld 
+Part I: Perceptions of Magic in Oldworld 
 --------------------------------
 
 On the whole, Oldworld is woefully uneducated when it comes to Magic.
@@ -40,19 +40,19 @@ Many of the communities you'll interact with have been built on foundations of o
 As a wizard, you're powerful, but in _~strange~_ and _unknowable_ ways.
 Some people will find this combination threatening, so be prepared for each of the following (alone or in concert):
 
-### stereotypes being used to minimise your role
+### Stereotypes being used to minimise your role
 
 Stereotypes are lazy short-hand thinking.
 Applying Empathy and Clarifying Question can be a great way to gently correct this anti-pattern.
 
 
-### superstitious reverence/ worship
+### Superstitious reverence/ worship
 
 Because most people don't understand Magic, it's important you support them by managing their expectations about the scope (and limitations) of what is possible.
 Be careful not to fall into hubris by accepting unwarrented praise - it's safer to correct peoples understandings of your achievements so they don't later ask you to resurrect lost data.
 
 
-### mis-directed requests
+### Mis-directed requests
 
 You'll likely also encounter 'business owners' seeking to employ you to weave spells with [no appreciation](https://www.youtube.com/watch?v=BKorP55Aqvg
 ) of either cost nor suitability.
@@ -75,13 +75,15 @@ While every wizard knows it's dangerous to commit to large spells and not adapt 
 
 
 
-Mapping the schools of Magic to Business-speak
+Part II: Mapping the schools of Magic to Business-speak
 ------------------------------------------
 
 
 
-Effecting change (without getting martyred)
+Part III: Effecting change (without getting martyred)
 -------------------------------------------
 
 
 
+Part IV: Keeping in touch
+----------------------------------------

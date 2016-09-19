@@ -40,19 +40,19 @@ Many of the communities you'll interact with have been built on foundations of o
 As a wizard, you're powerful, but in _~strange~_ and _unknowable_ ways.
 Some people will find this combination threatening, so be prepared for each of the following (alone or in concert):
 
-**stereotypes being used to minimise your role**
+### stereotypes being used to minimise your role
 
 Stereotypes are lazy short-hand thinking.
 Applying Empathy and Clarifying Question can be a great way to gently correct this anti-pattern.
 
 
-**superstitious reverence/ worship**
+### superstitious reverence/ worship
 
 Because most people don't understand Magic, it's important you support them by managing their expectations about the scope (and limitations) of what is possible.
 Be careful not to fall into hubris by accepting unwarrented praise - it's safer to correct peoples understandings of your achievements so they don't later ask you to resurrect lost data.
 
 
-**mis-directed requests**
+### mis-directed requests
 
 You'll likely also encounter 'business owners' seeking to employ you to weave spells with [no appreciation](https://www.youtube.com/watch?v=BKorP55Aqvg
 ) of either cost nor suitability.
@@ -66,7 +66,7 @@ Remember your Empathy training, and listen for the deeper problems, not just the
 Use tools like Listening and Looping, Inviting Questions, and Requesting Feedback (either formally or informally) to deeply grok peoples fears and desires.
 
 
-**Oldworld 'management'**
+### Oldworld 'management'
 
 The greatest danger to watch out for is "Waterfall projects", or perhaps worse "Wagile projects".
 In a bid to manage risks, some organisations will try to plan and measure everything before they've even started weaving their spells.

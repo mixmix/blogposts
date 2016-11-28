@@ -6,7 +6,7 @@ _(A graduates' guide to navigating Oldworld.)_
 Congratulations on graduating!
 
 You're now an Adept, and are setting out on an exciting journey to further your training.
-This primer is designed to help you aclimitise to life outside [the Academy](www.devacademy.co.nz).
+This primer is designed to help you acclimitise to life outside [the Academy](www.devacademy.co.nz).
 
 ```
 Part I ................... Perceptions of Magic in Oldworld 
@@ -76,14 +76,35 @@ While every wizard knows it's dangerous to commit to large spells and not adapt 
 
 
 Part II: Mapping the schools of Magic to Business-speak
-------------------------------------------
+-------------------------------------------------------
+
+There's not a one-to-one mapping from your studies to the world of Business.
+
+notes:
+- agile
+- mvp
+- check-in
+- retrospective
+- sprint
+- understanding problems
+- 
+
+
+### Debugging
+
+Root cause analysis
+
 
 
 
 Part III: Effecting change (without getting martyred)
--------------------------------------------
+-----------------------------------------------------
 
 
 
 Part IV: Keeping in touch
-----------------------------------------
+-------------------------
+
+
+http://cyber.wizard.institute/
+

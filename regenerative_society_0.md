@@ -1,7 +1,9 @@
 Immortal patterns; or "How to join the galactic council" 
 ========================================================
 
-We have the pleasure of living in a world full of a delightful array of organisms. These represent the progress so far - millions of years of matter learning how to arrange itself increasingly effective self-replicating patterns. Even more delightful is the fractal growth of these patterns - a progression from DNA molecules, through cells with organelles, through organisms with many cells arranged as organs, through communities of organisms in ecosystems. As humans, we're in the delighful position of being a part of a pattern that has the ability to observe patterns around us and manipulate them. While some .. (protocols hacking) 
+We have the pleasure of living in a world full of a delightful array of organisms. These represent the progress so far - millions of years of matter learning how to arrange itself increasingly effective self-replicating patterns.
+Even more delightful is the fractal growth of these patterns - a progression from DNA molecules, through cells with organelles, through organisms with many cells arranged as organs, through communities of organisms in ecosystems.
+As humans, we're in the intesting position of being a part of a pattern that has the ability to observe patterns around us and manipulate them.
 
 Can looking at this lineage of pattern inform how we should look to organise and communicate?
 
@@ -19,6 +21,7 @@ examples: biological cells
 - binary fission
 - mutation, sex
 - don't kill mutualistic relationships, don't
+
 
 Organisation as pattern
 -----------------------

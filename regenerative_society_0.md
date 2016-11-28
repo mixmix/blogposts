@@ -7,37 +7,48 @@ As humans, we're in the intesting position of being a part of a pattern that has
 
 Can looking at this lineage of pattern inform how we should look to organise and communicate?
 
-Perhaps we can inquire as to what made these patterns successful. Well at the very least these patterns have persisted. 
+Perhaps we can inquire as to what made these patterns successful.
+Well at the very least these patterns have persisted. 
 To persist they have : 
-    - self replicated
-    - evolved
-    - stabilised / persisted equilibrium state of surrounding broader patterns (have stable interactions with surrounding patterns) , establish equilibrium with connected patterns.
+  - self replicated
+  - evolved
+  - stabilised / persisted equilibrium state of surrounding broader patterns (have stable interactions with surrounding patterns) , establish equilibrium with connected patterns.
     
-Equlibrium state : Equilibrium state represents a long term stability of a pattern. This is important particularly for more complex patterns (such as ourselves) which have operating ranges outside of which they cannot persist. It's worth noting that stable does not necessarily mean good - for example humans being extinct is a stable possibility, even if it is a sad loss of complexity.
+### Equlibrium state
 
-Evolving state : Given all the systems we're engaging with are evolving, any system we build must also evolve. The alternative is ultimately being outcompeted by an evolving system.  
+Equilibrium state represents a long term stability of a pattern.
+This is important particularly for more complex patterns (such as ourselves) which have operating ranges outside of which they cannot persist.
+It's worth noting that stable does not necessarily mean good - for example humans being extinct is a stable possibility, even if it is a sad loss of complexity.
+
+### Evolving state
+
+Given all the systems we're engaging with are evolving, any system we build must also evolve.
+The alternative is ultimately being outcompeted by an evolving system.  
 
 examples: biological cells
 - binary fission
 - mutation, sex
-- don't kill mutualistic relationships, don't
+- don't kill mutualistic relationships
 
 
 Organisation as pattern
 -----------------------
 
-A successful community/ business pattern is one that persists. To persist it has to self-replicate, evolve, and have stable interactions with connecting patterns. 
+A successful community/ business pattern is one that persists.
+To persist it has to self-replicate, evolve, and have stable interactions with connecting patterns. 
 
-Current organisational patterns are in stable interaction with their connecting patterns. We see this in patterns both above and below the level of the organisation-level.
-Below - inequality is progressively crushing the poor. This plays out as inceasingly unstable countries. Historically this instabilty leads to dramatic change of organisational level pattern through revolt or revolution
+Current organisational patterns are in stable interaction with their connecting patterns.
+We see this in patterns both above and below the level of the organisation-level.
+Below - inequality is progressively crushing the poor. This plays out as inceasingly unstable countries.
+Historically this instabilty leads to dramatic change of organisational level pattern through revolt or revolution.
 Above - planet-wide environment is shifting towards a range that may preclude our particular pattern.
 
 If we persist the our current organisational patterns, ... well, we can't
 
 So our ideal organisation need to : 
-    - self replicate
-    - evolve
-    - interact stablly with patterns (below, above, around) 
+ - self replicate
+ - evolve
+ - interact stablly with patterns (below, above, around) 
 
 
 Building the ideal organisation
@@ -51,7 +62,7 @@ To persist in the long term it has to be, adaptive, self-repairing, and to reach
  The more recent part of this evolution is 
 
 
-  organisations of atoms 
+ organisations of atoms 
 
 Build an organisation that builds itself.
 

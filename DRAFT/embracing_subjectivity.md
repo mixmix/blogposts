@@ -1,5 +1,111 @@
 # Embracing Subjectivity
 
+prompts : 
+  - how can people learn from this talk?
+  - how is this accessible for beginners + more advanced 
+
+---
+
+## We've been exploring a subjective space.
+
+What does that mean - it's a net built less on a server-client model, and more on a p2p model.
+
+what if there isn't a node or a logical structure you have to sync up with in order to run a network...
+
+i.e. there's no central source of truth
+
+truth is synthesised, is subjective
+
+We've swapped the problems of centralisation with a whole other bunch of problems.
+
+Sounds scary, but don't worry, you're more qualified than you might think.
+
+
+SOME ASSUMPTIONS - you can proveably know who said something a thing (and when they said it relative to other things they said.)
+
+
+## Here's what we've discovered so far ! 
+
+  - identity
+    - any @-mention
+    - any avatar
+    - how: 
+      - cryptography (public key = your identity. private key = the secret to your signature)
+      - cypherspace
+
+  - boundaries of community
+    - there isn't a usage policy, there's just your community
+      - encourages community to practice self awareness + ownership
+    - example
+      - unwelcome conversation
+
+  - 'online' isn't a thing
+    - in-sync, or a bit delayed
+    - examples
+      - at home
+      - planes, islands, boats
+      - space, or just isolated communities
+      - hitch-hikers guides, local peer-maps
+
+  - no ads
+
+  - open database -> interface diversity
+    - how do I want to derive meaning?
+      - arrangement, filtering
+      - history books vs history
+    - examples:
+      - patchwork
+      - patchbay
+        - minbay
+        - sdash
+      - ssb-viewer
+    
+  - open database -> interoperability for free
+    - what if about messages could allow you to add metadata to anything
+    - what if replies could be responses to anything
+    - what if issues could point at anything
+    - ferment
+    - git-ssb in patchbay
+
+  - app interface/ db interoperability > swappable modular
+    - logic
+    - views
+      - css
+    
+  - git on scuttlebutt
+    - more logically + architecturally decentralised ... an actual cloud?
+    - git repos that I care about are immediately accessible
+    - subjective naming
+
+  - just like classic interpersonal meatspace
+    - just people talking to each other and figuring things out
+
+
+
+## Uncharted territory
+
+How many degrees of gossip are too many?
+
+Multi-device
+  - merging identities vs. plugable keys vs. hyperlogs
+
+Private groups?
+  - cost of decryption
+  - authorisation
+
+How do you visualise the gossip flows
+
+How do you do this well on mobile?
+
+How do you describe foreign lands when there are no common words for what you've seen ?
+
+
+
+---
+
+
+
+
 Ideas I care about: 
 - plurarliy of truth
   - names

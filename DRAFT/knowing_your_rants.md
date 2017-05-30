@@ -31,6 +31,7 @@ If you don't really care, or are just thinking aloud, maybe don't do it near me.
   - winning arguments vs. virtuous cycles
 
 - decentralisation
+  - interoperability is an extension of private property
   - ownership
   - commericial advertising as norm
 
@@ -45,5 +46,8 @@ I would **love** to hear about these.
 Please tell me directly, or open a pull request <3
 
 
+## How to handle your rants
 
+If you notice yourself giving a rant more than 5 times, you should write a blog post about it.
+That way, you're challenged to be a more articulate, and think through the idea more cleary, AND people can choose whether or not to subject themselves to it.
 

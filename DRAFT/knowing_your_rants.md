@@ -20,15 +20,20 @@ If you don't really care, or are just thinking aloud, maybe don't do it near me.
 
 - education
   - industrial institution
-  - role in society
   - respect for individual humanity
-  - practice of community
+  - practice of community (vs. individualism)
+  - role in society
 
 - long term thinking
+  - winning arguments vs. virtuous cycles
   - building the commons
   - open source
   - buying google + apple
-  - winning arguments vs. virtuous cycles
+
+- open referenceable thinking
+  - record scrap-thoughts (...see this repo), share it
+  - use gitbook for your org handbook. make it open
+  - take notes in meetings and share them.
 
 - decentralisation
   - interoperability is an extension of private property
@@ -50,4 +55,7 @@ Please tell me directly, or open a pull request <3
 
 If you notice yourself giving a rant more than 5 times, you should write a blog post about it.
 That way, you're challenged to be a more articulate, and think through the idea more cleary, AND people can choose whether or not to subject themselves to it.
+
+At the very least you should start a scrap document (or git repo) - somewhere to collect your ideas.
+That way you have a bookmarked location to add to, and on the offchance your partly articulated thought-stub is useful to someone else, you can expand it.
 

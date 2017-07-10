@@ -89,9 +89,10 @@ There’s a bunch of you in a room talking about your project and raising releva
 The conversation energy is good, and you’re discussing all the things. 
 
 This is a great space for combining ideas, exploring shared values, and connecting with each other.
-If you were intending to agree things and plan action though, you might be in a miscy meeting.
+If you were intending to run a discovery session, or a workshop, that's great.
+If you were expecting decisions and action, it might be worth checking whether you're in a miscy meeting.
 
-You might also smell:
+You might smell:
 - no-one recording any actions / agreements
 - surprise at the topics being raised (lack of agreement about why you’ve met)
 - topic drift / people changing topics annoyingly

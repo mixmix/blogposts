@@ -11,6 +11,7 @@ Why are you ranting on that topic?
 It's either a topic which is inconsequential and you need to reasses how your value things in your life,
 or you're luck enough to have discovered something you really care about A LOT.
 
+Knowing your rants is a good defense against being triggered and inflicting a rant on someone.
 Knowing your rants and confronting them is also a better path to not having them used against you.
 
 ## Rants I know I have

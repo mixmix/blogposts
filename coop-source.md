@@ -1,6 +1,6 @@
 # Coop-source
 
-_Protozoa is a tech coop, and we write open source code.
+_[www.protozoa.nz](Protozoa) is a tech coop, and we write open source code.
 This is a little bit about what that means, and how open source is the foundation on which we're building an aspirational future._
 
 I recently published a new feauture for [Patchbay](https://github.com/ssbc/patchbay) - an open source project I maintain.
@@ -8,6 +8,7 @@ It allows you to easily @-mention people in the [scuttleverse](https://www.scutt
 This isn't straightforward because it's a decentralised space where identity is subjective - many people have more than one use-name. (I gave [a whole talk on subjectiviy here](https://www.youtube.com/watch?v=P5K18XssVBg)).
 
 ![](./images/at_mention.png)
+
 _I mention Mikey by a name that people in our coding context will be familiar with (dinosaur)._
 
 > Why is this significant?
@@ -50,6 +51,7 @@ Other gatherings I've seen in the past week in include "Art~Hack Wellington: dec
 
 It feels amazing to have been able to support more connections between people, and to be doing business in a values aligned space - I honestly don't know TableFlip's email addresses...
 
+![](./images/protozoa_logo.png)
 
 _If you're an excellent human with an rad project you'd like to collaborate on, we'd love to hear from you. I'm mix@protozoa.nz, or you can join the scuttleverse from www.scuttlebutt.nz_ 
 

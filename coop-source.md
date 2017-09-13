@@ -43,10 +43,10 @@ Here's an example of that:
 
 [Tableflip](https://tableflip.io/) are a UK based tech coop we've been working with.
 We met them through the scuttleverse and this is a calendar invite to a catchup planning more work in the future.
-We're able to work on bigger and more exciting projects with the confidence that we can expand to support each others projects as required.
+By working together, we're able to work on bigger and more exciting projects with the confidence that we can expand to support each other.
 
 The cal invite here is another tool we built is called `gatherings`.
-It's a module Protozoa made to enable more community interaction.
+It's a module Piet and I made to enable more community interaction.
 Other gatherings I've seen in the past week in include "Art~Hack Wellington: decommidify your creativity", "Westhaven Car Boot sale", and "Bad Ukulele Club".
 
 It feels amazing to have been able to support more connections between people, and to be doing business in a values aligned space - I honestly don't know TableFlip's email addresses...

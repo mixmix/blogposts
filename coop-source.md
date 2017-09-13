@@ -1,6 +1,6 @@
 # Coop-source
 
-_[www.protozoa.nz](Protozoa) is a tech coop, and we write open source code.
+_[Protozoa](https://www.protozoa.nz) is a tech coop, and we write open source code.
 This is a little bit about what that means, and how open source is the foundation on which we're building an aspirational future._
 
 I recently published a new feauture for [Patchbay](https://github.com/ssbc/patchbay) - an open source project I maintain.
@@ -53,6 +53,6 @@ It feels amazing to have been able to support more connections between people, a
 
 ![](./images/protozoa_logo.png)
 
-_If you're an excellent human with an rad project you'd like to collaborate on, we'd love to hear from you. I'm mix@protozoa.nz, or you can join the scuttleverse from www.scuttlebutt.nz_ 
+_If you're an excellent human with an rad project you'd like to collaborate on, we'd love to hear from you. I'm mix@protozoa.nz, or you can join the scuttleverse from [scuttlebutt.nz](https://www.scuttlebutt.nz)_ 
 
 

@@ -53,6 +53,6 @@ It feels amazing to have been able to support more connections between people, a
 
 ![](./images/protozoa_logo.png)
 
-_If you're an excellent human with an rad project you'd like to collaborate on, we'd love to hear from you. I'm mix@protozoa.nz, or you can join the scuttleverse from [scuttlebutt.nz](https://www.scuttlebutt.nz)_ 
+_If you're an excellent human with a rad project you'd like to collaborate on, we'd love to hear from you. I'm mix@protozoa.nz, or you can join the scuttleverse from [scuttlebutt.nz](https://www.scuttlebutt.nz)_ 
 
 

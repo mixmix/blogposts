@@ -1,24 +1,3 @@
-notes from alanna: 
-
-- clarify difference between federated + decent
-  - twitter / youtube : company decides what / who is banned, people argue over rules
-  - federated : club houses which are owned
-  
-- make clear
-  - there's no central governance / community
-  - the thing can be islands that overlap or don't
-  
-- write about future
-  - example of some friends blocking an antagonist, I discover he's a dad
-  - people learning about responsibility
-  - emmergent culture
-    - multifacetted community
-      - people can tap out at different times
-    - cultural consensus is not socially imposed, no-one has any special powers
-
----
-
-
 # Personal Safety in a p2p Social Network
 
 _I believe in a free and open web.

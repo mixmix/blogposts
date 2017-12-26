@@ -62,6 +62,22 @@ I conquered by workaholism.
 
 ## Nick Johnstone
 
+I was working for the Wynyard Group in 2013 as a test engineer. I had been working in software for around a year straight out of highschool. I started to contemplate that I could easily spend the majority of the rest of my life working nine to five in a job that didn't engage me. So I decided that I would move to Wellington, get a job as a software developer and work four days a week.
+
+Six months later, I moved to Wellington, attended and graduated Dev Academy, and then shortly found a job as a developer at Powershop (now known as Flux Federation). In my interview process, I expressed my desire to work four days a week, and to my delight found out that there were already developers at Powershop working four days a week. I was told that I would start at five days a week, and when I was settled in we would reconsider.
+
+Over the next year I broached the subject with my manager frequently in catchups, but encountered resistance. My manager wondered aloud why everyone else was happy to work forty hours a week, and yet I wanted to work thirty-two. So I settled in working five days a week. However, as my job became more comfortable and routine, my appetite for side-projects grew again. I found that while I had appetite, my energy levels at work suffered as I pushed myself working late nights.
+
+Eventually this got to the point where it was clearly not working for myself or for the business. My manager and I had a frank discussion and concluded that the best thing for me was to work four days a week, so that I would have more time to dedicate to my side-projects without impacting my day job.
+
+This was in late 2015, so around two years ago at the time of writing. Since then, I have changed jobs, and was able to use my four day a week arrangement in my previous workplace to negotiate the same arrangement in this role.
+
+Overall I have found this to be a very positive experience. I have more time to relax and to work on my side-projects, as well as keeping up with life admin duties. I do have to spend a bit of energy ensuring that I overcommunicate so that work can continue in my absence. I find this is generally good practice anyway, as you really want to be able to continue work even if a teammate is sick or is called away to fight a fire.
+
+Aside from the obvious financial impact of taking a 20% paycut, there are a few negative side-effects. While I do not have hard evidence for this, if your ambitions are about climbing the ladder in your organisation, working four days a week might not give the impression that you want. Additionally, it's easy to miss in-person communications and conversations that most everyone else was present for.
+
+There is also an interesting phenomena where people assume that if you work four days a week, that you must be lazy. For some people, additional relaxation time might be the main reason they work less. That can be nice, but personally I work around six days a week, all I'm changing is the proportion of my professional work vs personal/charitabe.
+
 ## David Clearwater
 
 ## Mix

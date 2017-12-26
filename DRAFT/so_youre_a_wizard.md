@@ -6,7 +6,7 @@ _(A graduates' guide to navigating Oldworld.)_
 Congratulations on graduating!
 
 You're now an Adept, and are setting out on an exciting journey to further your training.
-This primer is designed to help you acclimitise to life outside [the Academy](www.devacademy.co.nz).
+This primer is designed to help you asslimitise to life outside [the Academy](www.devacademy.co.nz).
 
 ```
 Part I ................... Perceptions of Magic in Oldworld 

@@ -1,5 +1,18 @@
 # Quality-time work
 
+There's a lot of normative pressure about work in our society.
+I believe working less than 5 days a week is really healthy, and I'd love to make more visible the ways in which people are already doing this.
+So here's the start of a collection of stories from people I know...
+
+If you work less than 5 days a week, I'd love to add your story.
+
+I'm interested in: 
+- what path did you take to working less?
+  - was it hard negotiating it?
+  - what's the context of your work?
+- why did you do it?
+- are there any interesting implications for your work/ life? 
+
 ## Zane
 
 what you do: land surveying
@@ -47,4 +60,11 @@ I take thursdays off. I will never go back to fulltime. My life is exponentially
 I conquered by workaholism.
 
 
+## Nick Johnstone
+
+## David Clearwater
+
+## Mix
+
+## You name here
 

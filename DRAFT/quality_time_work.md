@@ -66,5 +66,19 @@ I conquered by workaholism.
 
 ## Mix
 
+## Lynn
+
+This is a "later in life" story.
+
+When my new-at-the-time partner and I moved to a rural area, partly to cut expenses, a friend/neighbor had a .net web developer gig for 40 hours a week.  She wanted to work less and I needed a job, so she proposed to her client that she and I share the contract.  The client accepted. (They trusted her and it brought more of a mix of skills to the client, as well as backup capability when one of us was sick or on vacation or they just needed more hours for a bit.)  So we job-shared and each worked 20 hours a week.  I highly recommend job sharing!
+
+Then the client was having money troubles and made our shared job into 20 hours/week.  So we each worked 10.  
+
+Since I was done raising children and we were living very cheaply, I could make ends meet on the 10 hours. To be clear, part of living very cheaply was being lucky enough to be able to be able to buy into our small fairly sustainable housing co-op from the sale of my house in the city and some retirement savings, with no remaining debt.  But part is also living in the co-op where we share a lot of expenses, which I also recommend, as long as you trust the people a lot.
+
+I can just agree with others here on life implications: it was incredibly awesome!  Gave me a chance to contribute lots more time to the open source gift work my partner and I do.  Compared to the previous period of my life when I was working full time in the city, commuting, and raising a couple kids as a single mom, this was heaven. (Not that I didn't love raising kids, but still...)
+
+The lower stress levels were amazing.  (The effects on health of stress levels are real, especially as we get older.)  Even though I was still working a fair number of hours all together, being more in control of my personal schedule was huge, and being able to mostly work on something I think is actually useful was a real mental boost.
+
 ## You name here
 

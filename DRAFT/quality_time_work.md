@@ -100,24 +100,10 @@ The lower stress levels were amazing.  (The effects on health of stress levels a
 
 ## Devine
 
-I'm a developer and designer living on a sailboat.
-
-### what path did you take to working less?
-
-I have looked into ways of needing less money to live, instead of looking for ways to making more.
-
-### was it hard negotiating it?
+I'm a developer and designer living on a sailboat. I have looked into ways of needing less money to live, instead of looking for ways to making more.
 
 I've always found the idea of living a minimalist and uncluttered life appealing. Getting rid of the right things has been a learning process, choosing the optimal handlful of things that I truly cherrished was something that I improved over time.
 
-### what's the context of your work?
-
-I make a living building video games and applications for mobile and desktops independently. 
-
-### why did you do it?
-
-I found my previous life to be unsustainable, and myself struggling to keeping up with the sacrifices required in order to balance income and living costs of the city-life. Especially in regard to my physical health.
-
-### are there any interesting implications for your work/ life?
+I make a living building video games and applications for mobile and desktops independently. I found my previous life to be unsustainable, and myself struggling to keeping up with the sacrifices required in order to balance income and living costs of the city-life. Especially in regard to my physical health.
 
 I have been working throughout our crossing of the South Pacific ocean. Doing internet related work whist living a nomadic life has been a challenge, but it has put me in situations where I had to build tools that aligned with my lifestyle, so leaner projects with less dependencies that worked more independently from libraries.

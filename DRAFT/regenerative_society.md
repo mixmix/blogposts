@@ -20,7 +20,7 @@
 ----
 
 My friends and I are interested in living in a different world. Some of us want to not suffer and die in climate change, some to see stateless democracy succeed the nation state.
-I would like us to [join the galactic council](http://hyper.mixmix.io/?mixmix/blogposts/blob/master/uncapturable_distribution.md).
+I would like us to [join the galactic council](http://hyper.mixmix.io/mixmix/blogposts/blob/master/uncapturable_distribution.md).
 There are many common threads to our different visions and the paths we think we need to take to get there - things like more equality, reformation of economies, alternative modes of organising with large groups.
 
 Something all these have in common is bringing about change in what already exists. Knowing how to effect change well is a VERY HARD problem - it's involves balancing things like a need for scale with preservation of values, or balancing inclusivity with alacrity.
